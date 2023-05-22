@@ -20,6 +20,11 @@ To work with your own data, you will need textual data in a simple text file. If
 * Michael Ginn, University of Colorado Boulder
 * David Ricardo Saavedra, Universidad de los Andes
 
+### Acknowledgments
+This material is based upon work supported by the National Science Foundation under Grant No. 2149404,“CAREER:
+From One Language to Another”. Any opinions, findings, and conclusions or recommendations expressed in this ma-
+terial are those of the authors and do not necessarily reflect the views of the National Science Foundation. This work utilized the CUmulus on-premise cloud service at the University of Colorado Boulder. CUmulus is jointly funded by the National Science Foundation (award OAC-1925766) and the University of Colorado Boulder.
+
 --------------------------------------------------------------------------------------
 
 # Building Endangered Language Technology (ES)
@@ -27,3 +32,5 @@ To work with your own data, you will need textual data in a simple text file. If
 --------------------------------------------------------------------------------------
 
 # Building Endangered Language Technology (PT)
+
+--------------------------------------------------------------------------------------
