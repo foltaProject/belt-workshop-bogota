@@ -1,4 +1,7 @@
 # Building Endangered Language Technology (EN)
+ (text in Spanish and Portuguese coming soon! (scroll down))
+ 
+ 
 <a href="https://www.amazonicas.org/mainconferences.php">AMAZONICAS Winter Course</a>
 * Cartography PC Room, Department of Anthropology, Universidad de los Andes
 * Tuesday 13 June - Friday 16 June (3 hrs/day) : precise times to be announced
@@ -17,6 +20,10 @@ To work with your own data, you will need textual data in a simple text file. If
 * Michael Ginn, University of Colorado Boulder
 * David Ricardo Saavedra, Universidad de los Andes
 
+--------------------------------------------------------------------------------------
+
 # Building Endangered Language Technology (ES)
+
+--------------------------------------------------------------------------------------
 
 # Building Endangered Language Technology (PT)
