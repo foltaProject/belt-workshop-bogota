@@ -17,8 +17,8 @@ We will present a series of tutorials illustrating how to build these tools and 
 To work with your own data, you will need textual data in a simple text file. If we have the time, we should be able to help with any questions about how to get the data into the right format.
 
 ## Instructors
-* Michael Ginn, University of Colorado Boulder
-* David Ricardo Saavedra, Universidad de los Andes
+* Michael Ginn, University of Colorado Boulder, USA
+* David Ricardo Saavedra, Universidad de los Andes, Colombia
 
 ### Acknowledgments
 This material is based upon work supported by the National Science Foundation under Grant No. 2149404,“CAREER:
