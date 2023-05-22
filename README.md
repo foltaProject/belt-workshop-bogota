@@ -3,7 +3,7 @@
 * Cartography PC Room, Department of Anthropology, Universidad de los Andes
 * Tuesday 13 June - Friday 16 June (3 hrs/day) : precise times to be announced
 * Instruction mostly in English, with Spanish translation available
-* Course materials available in English, Spanish, and Portugeuse
+* Course materials available in English, Spanish, and Portuguese
 * Please bring your own computer!
 * If you'd like to bring language data, it should be a simple text file (.txt format)
 
