@@ -1,9 +1,8 @@
 # Building Endangered Language Technology (EN)
- (text in Spanish and Portuguese coming soon! (scroll down))
- 
+<a href="https://github.com/foltaProject/belt-workshop-bogota/edit/main/README.md#building-endangered-language-technology-es">Texto en Español</a>
  
 <a href="https://www.amazonicas.org/mainconferences.php">AMAZONICAS Winter Course</a>
-* Cartography PC Room, Department of Anthropology, Universidad de los Andes
+* Sala de Cartografía, G206 Edificio Franco -Universidad de los Andes
 * Tuesday 13 June - Friday 16 June (3 hrs/day) : precise times to be announced
 * Instruction mostly in English, with Spanish translation available
 * Course materials available in English, Spanish, and Portuguese
@@ -28,6 +27,30 @@ terial are those of the authors and do not necessarily reflect the views of the 
 --------------------------------------------------------------------------------------
 
 # Building Endangered Language Technology (ES)
+
+<a href="https://www.amazonicas.org/mainconferences.php">AMAZONICAS Winter Course</a>
+* Sala de Cartografía, G206 Edificio Franco -Universidad de los Andes
+* Martes 13 de junio - Viernes 16 de junio (3 hrs/día) : horarios por confirmar
+* Instrucción principalmente en inglés, con traducción al español disponible
+* Materiales del curso disponibles en inglés, español y portugués
+* Por favor, ¡trae tu propio computador!
+* Si deseas traer datos lingüísticos, deberán ser un simple archivo de texto (formato .txt)
+
+Los participantes en este curso aprenderán a construir varias herramientas relacionadas con el lenguaje, incluyendo un sistema de texto predictivo, un corrector ortográfico y algunos juegos de palabras. Para aquellos estudiantes sin experiencia previa en programación, también enseñaremos algunos conceptos básicos del lenguaje de programación Python. A lo largo del curso, también aprenderás algunos principios de lingüística computacional, ¡y aprenderás mucho sobre cómo trabajar computacionalmente con datos lingüísticos!
+
+Presentaremos una serie de tutoriales que ilustran cómo construir estas herramientas y haremos un pequeño sitio web para que otras personas puedan utilizar tus herramientas. Puedes trabajar con los datos que proporcionemos, o con datos de una lengua que te interese. No presuponemos ningún conocimiento previo de Python ni de programación informática. Recomendamos trae tu propio computador. El curso durará 4 días, con una sesión de 3 horas cada día.
+
+Para trabajar con tus propios datos, necesitarás datos en formato de texto contenidos en un archivo de texto simple. Contando con tiempo, podremos ayudarte con cualquier duda sobre cómo poner los datos en el formato adecuado.
+    
+## Instructors
+* Michael Ginn, University of Colorado Boulder, USA
+* David Ricardo Saavedra, Universidad de los Andes, Colombia
+
+### Acknowledgments
+This material is based upon work supported by the National Science Foundation under Grant No. 2149404,“CAREER:
+From One Language to Another”. Any opinions, findings, and conclusions or recommendations expressed in this ma-
+terial are those of the authors and do not necessarily reflect the views of the National Science Foundation. This work utilized the CUmulus on-premise cloud service at the University of Colorado Boulder. CUmulus is jointly funded by the National Science Foundation (award OAC-1925766) and the University of Colorado Boulder.
+
 
 --------------------------------------------------------------------------------------
 
