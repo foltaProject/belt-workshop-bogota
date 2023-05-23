@@ -1,7 +1,7 @@
 # Building Endangered Language Technology (EN)
-<a href="https://github.com/foltaProject/belt-workshop-bogota/edit/main/README.md#building-endangered-language-technology-es">Texto en Español</a>
+[Texto en Español](README.md#building-endangered-language-technology-es)
  
-<a href="https://www.amazonicas.org/mainconferences.php">AMAZONICAS Winter Course</a>
+[AMAZONICAS Winter Course](https://www.amazonicas.org/mainconferences.php)
 * Sala de Cartografía, G206 Edificio Franco -Universidad de los Andes
 * Tuesday 13 June - Friday 16 June (3 hrs/day) : precise times to be announced
 * Instruction mostly in English, with Spanish translation available
@@ -28,7 +28,7 @@ terial are those of the authors and do not necessarily reflect the views of the 
 
 # Building Endangered Language Technology (ES)
 
-<a href="https://www.amazonicas.org/mainconferences.php">AMAZONICAS Winter Course</a>
+[AMAZONICAS Winter Course](https://www.amazonicas.org/mainconferences.php)
 * Sala de Cartografía, G206 Edificio Franco -Universidad de los Andes
 * Martes 13 de junio - Viernes 16 de junio (3 hrs/día) : horarios por confirmar
 * Instrucción principalmente en inglés, con traducción al español disponible
