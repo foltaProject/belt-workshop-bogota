@@ -50,8 +50,3 @@ Para trabajar con tus propios datos, necesitarás datos en formato de texto cont
 Este material se ha elaborado a partir de un trabajo financiado por la Fundación Nacional de Ciencias con la beca nº 2149404, "CAREER: From One Language to Another". Todas las opiniones, resultados y conclusiones o recomendaciones expresadas en este material son las de los autores y no reflejan necesariamente los puntos de vista de la Fundación Nacional de Ciencias. En este trabajo se ha utilizado el servicio en la nube CUmulus on-premise de la Universidad de Colorado Boulder. CUmulus está financiado conjuntamente por la Fundación Nacional de Ciencias (premio OAC-1925766) y la Universidad de Colorado Boulder.
 
 
---------------------------------------------------------------------------------------
-
-# Building Endangered Language Technology (PT)
-
---------------------------------------------------------------------------------------
