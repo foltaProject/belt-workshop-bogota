@@ -17,7 +17,7 @@ To work with your own data, you will need textual data in a simple text file. If
 
 ## Instructors
 * Michael Ginn, University of Colorado Boulder, USA
-* David Ricardo Saavedra, Universidad de los Andes, Colombia
+* David Ricardo Saavedra, National University of Colombia
 
 ### Acknowledgments
 This material is based upon work supported by the National Science Foundation under Grant No. 2149404,“CAREER:
@@ -42,14 +42,12 @@ Presentaremos una serie de tutoriales que ilustran cómo construir estas herrami
 
 Para trabajar con tus propios datos, necesitarás datos en formato de texto contenidos en un archivo de texto simple. Contando con tiempo, podremos ayudarte con cualquier duda sobre cómo poner los datos en el formato adecuado.
     
-## Instructors
+## Instructores
 * Michael Ginn, University of Colorado Boulder, USA
-* David Ricardo Saavedra, Universidad de los Andes, Colombia
+* David Ricardo Saavedra, Universidad Nacional de Colombia
 
-### Acknowledgments
-This material is based upon work supported by the National Science Foundation under Grant No. 2149404,“CAREER:
-From One Language to Another”. Any opinions, findings, and conclusions or recommendations expressed in this ma-
-terial are those of the authors and do not necessarily reflect the views of the National Science Foundation. This work utilized the CUmulus on-premise cloud service at the University of Colorado Boulder. CUmulus is jointly funded by the National Science Foundation (award OAC-1925766) and the University of Colorado Boulder.
+### Agradecimientos
+Este material se ha elaborado a partir de un trabajo financiado por la Fundación Nacional de Ciencias con la beca nº 2149404, "CAREER: From One Language to Another". Todas las opiniones, resultados y conclusiones o recomendaciones expresadas en este material son las de los autores y no reflejan necesariamente los puntos de vista de la Fundación Nacional de Ciencias. En este trabajo se ha utilizado el servicio en la nube CUmulus on-premise de la Universidad de Colorado Boulder. CUmulus está financiado conjuntamente por la Fundación Nacional de Ciencias (premio OAC-1925766) y la Universidad de Colorado Boulder.
 
 
 --------------------------------------------------------------------------------------
